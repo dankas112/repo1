@@ -6,3 +6,5 @@ for i in range(10):
 
 while True:
     break
+
+a = 10
